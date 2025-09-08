@@ -19,6 +19,7 @@ Records grades, marks obtained, and total marks across different courses and ter
 Manages tuition, hostel, library, lab, and other fee records with due dates, payment status, and receipts.
 
 5. Course Management
+   
 Contains course details like name, description, credits, and department.
 
 6. Data Security & Access Control
