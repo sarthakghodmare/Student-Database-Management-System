@@ -29,20 +29,29 @@ Maintains user accounts with role-based access and login activity.
 🛠️ Tech Stack
 
 PostgreSQL – Database engine
+
 SQL – Schema design, DML & DDL operations
 
 📌 Example Use Cases
 
 Generate attendance reports for students.
+
 Track pending fee payments and due dates.
+
 Analyze academic performance by term/course.
+
 Role-based access for admins, students, and faculty.
 
 📂 Schema Highlights
 
 students → core student info
+
 attendance → daily attendance records
+
 academic_performance → marks & grades
+
 fee_records → payments and due status
+
 courses → course catalog
+
 user_roles & user_accounts → security & login management
